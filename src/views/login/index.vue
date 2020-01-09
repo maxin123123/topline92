@@ -64,7 +64,7 @@ export default {
       // 表单数据
       loginForm: {
 
-        mobile: '17631577586', // 手机号码
+        mobile: '13911111111', // 手机号码
         code: '246810', // 校验码
         xieyi: false // 协议
 
